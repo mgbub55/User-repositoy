@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}
+
+.font {
+    font-weight: 900;
+}
+.bg1 {
+    height: 17em;
+}
+.box1 {
+    height: 17em;
+    border-radius: 10px;
+    background-image: url(../images/keyphone.jpg);
+    background-blend-mode: overlay;
+    background-color: rgba(255, 81, 0, 0.685);
+    background-size: cover;
+}
+
+.bg2 {
+    height: 17em;
+}
+.bg-3{
+    height: 17em;
+}
+.box2 {
+    height: 17em;
+    border-radius: 10px;
+    background-image: url(../images/bb.jpg);
+    background-size: 100% 100%;
+}
+
+.image {
+    background-image: url(../images/boars.jpg);
+    height: 20em;
+    background-size: 100% 100%;
+    border-radius: 12px 0px 0px 12px;
+}
+
+.h3 {
+    font-weight: 800;
+}
+
+.h4 {
+    font-weight: 700;
+}
+.text-dark{
+    font-weight: 600;
+}
+
+.icon {
+    border: none;
+    padding: 12px;
+    border-radius: 7px;
+    background-color: rgba(255, 81, 0, 0.794);
+    width: 2em;
+}
+.icon2 {
+    border: none;
+    width: 2em;
+    height: 2em;
+    background-color: rgba(255, 81, 0, 0.794);
+    padding: 2px;
+}
+
+.bbn {
+    background-color: rgba(255, 81, 0, 0.794);
+    font-weight: 500;
+    padding: 10px;
+}
+.nbb{
+    font-weight: 700;
+    padding: 12px;
+}
